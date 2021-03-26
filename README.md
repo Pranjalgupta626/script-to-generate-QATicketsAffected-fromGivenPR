@@ -3,9 +3,10 @@
 ### Steps to run the script:
 
 1) Git clone the repository and enter into it.
-2) Run "yarn install" on terminal 
-3) Run following command: node index.js < PR number >
-4) After running the command you can see three output JSON files which will get created under "outputJSONfiles" folder.
+2) Run "yarn install" on terminal.
+3) Copy the .env file into the project folder which you have reveived personally.
+4) Run following command: node index.js < PR number >
+5) After running the command you can see three output JSON files which will get created under "outputJSONfiles" folder.
 
 
 ### Output files explanation:
