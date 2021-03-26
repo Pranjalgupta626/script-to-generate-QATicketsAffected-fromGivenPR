@@ -1,0 +1,24 @@
+{
+  "name": "sh-farmhealth-qa-generate-tests-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaradigitallabs/sh-farmhealth-qa-generate-tests-json.git"
+  },
+  "author": "Pranjal Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaradigitallabs/sh-farmhealth-qa-generate-tests-json/issues"
+  },
+  "homepage": "https://github.com/yaradigitallabs/sh-farmhealth-qa-generate-tests-json#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
